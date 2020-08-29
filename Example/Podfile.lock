@@ -1,0 +1,23 @@
+PODS:
+  - aaa (0.1.0):
+    - pop
+  - pop (1.0.12)
+
+DEPENDENCIES:
+  - aaa (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - pop
+
+EXTERNAL SOURCES:
+  aaa:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  aaa: 32e9a2f4195023b93584342c5500089f7c88851e
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+
+PODFILE CHECKSUM: ec028882f23b8c9e6f67c404690c8099307c2443
+
+COCOAPODS: 1.9.3
